@@ -1,0 +1,39 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "surname": "Smith",
+      "sex": "male",
+      "age": 26,
+      "photo": "https://m.media-amazon.com/images/M/MV5BMjM3MjM3NTAxM15BMl5BanBnXkFtZTgwMTY0Nzg2OTE@._V1_.jpg"
+    },
+    {
+      "name": "Angela",
+      "surname": "Whinston",
+      "sex": "female",
+      "age": 31,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmq6j3bHsEiN9rxRj4UG_IFtyyctEQrIxtcg&usqp=CAU"
+    },
+    {
+      "name": "Alex",
+      "surname": "Solberry",
+      "sex": "male",
+      "age": 35,
+      "photo": "https://www.peoples.ru/art/cinema/actor/ewan_mitchell/fwHiMErtiVoBJ.jpeg"
+    },
+    {
+      "name": "Anna",
+      "surname": "Rayan",
+      "sex": "female",
+      "age": 23,
+      "photo": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcS_lTpmhKes_2vC6OJiuNK64DNtaTNU0tDtHBGdpoy7KaZ2d7-y68TLujUVRlUmvo__"
+    },
+    {
+      "name": "Michael",
+      "surname": "Dobkin",
+      "sex": "male",
+      "age": 30,
+      "photo": "https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w425/cast/3b2b388f58aae2da_yr_michaelm_800x1000.jpg"
+    }
+  ]
+}
